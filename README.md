@@ -6,13 +6,17 @@ A fellow tech fanatic.
 
 "I am a computer science graduate with a focus on software design and engineering. I have experience in a variety of data analysis tools and programming languages, including C/C++, Python, SQL, and R. In my past role as a Back-Office consultant and account manager in the travel industry, I have used innovative technologies to uncover patterns in big data and help businesses make data-driven decisions. My goal is to continue utilizing standard analytical tools to predict future trends and find unique ways to illustrate company data."
 
-*   🌍  I'm based in California ☀️
-*   🖥️  See my portfolio at [My Website!](http://egomez3412.github.io/)
-*   ✉️  You can contact me at [egomez3412@gmail.com](mailto:egomez3412@gmail.com)
-*   🚀  I'm currently working on [A Universal Recommendation System](http://www.fullerton.edu/ecs/ecs_showcase_and_awards/Winners.php)
-*   🧠  I'm learning AWS Cloud Technology
-*   🤝  I'm open to collaborating on Automation and Algorithms
-*   ⚡  I'm a big European Soccer Fan! (ICI C'EST PARIS)### Skills 
+* 🌍  I'm based in California ☀️
+* 🖥️  See my portfolio at [My Website!](http://egomez3412.github.io/)
+* ✉️  You can contact me at [egomez3412@gmail.com](mailto:egomez3412@gmail.com)
+* 🚀  I'm currently working on [A Universal Recommendation System](http://www.fullerton.edu/ecs/ecs_showcase_and_awards/Winners.php)
+* 🧠  I'm learning AWS Cloud Technology
+* 🤝  I'm open to collaborating on Automation and Algorithms
+* ⚡  I'm a big European Soccer Fan! (ICI C'EST PARIS)
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -43,19 +47,14 @@ A fellow tech fanatic.
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/eddycool98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/egomez3412" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/edwardgomez358" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/egomez3412" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/egomez3412" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/egomez3412"><img src="https://github-readme-stats.vercel.app/api?username=egomez3412&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="egomez3412's GitHub stats" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/eddycool98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/egomez3412" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/edwardgomez358" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/egomez3412" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/egomez3412" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/egomez3412"><img src="https://github-readme-stats.vercel.app/api?username=egomez3412&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="egomez3412's GitHub stats" /></a>
